@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913147898105",
+    "project_id": "activitiesrecognition"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913147898105:android:20e72e23c8546cd0",
+        "android_client_info": {
+          "package_name": "com.donaydc.activitiesrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913147898105-cksn4trrn5mpvh7pss4hglbe8icjkfik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.donaydc.activitiesrecognition",
+            "certificate_hash": "5205bfcae897a4459141c3058ed31fddacced37f"
+          }
+        },
+        {
+          "client_id": "913147898105-s4avqcb6vgnftgi4vceau95tq0hdam2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCg3dTgd3fAi5YeMJU7DBYqxHmk2nuUTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

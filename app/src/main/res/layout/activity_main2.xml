@@ -1,0 +1,236 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Measures:"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textX"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="X Axis:"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textY"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Y Axis:" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textZ"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Z Axis:" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="30dp"
+                android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="What activity are you going to do?"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"/>
+
+                <Button
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:background="#d9d9d9"
+                    android:textColor="#404040"
+                    android:text="Activities"
+                    android:id="@+id/BtAct">
+                </Button>
+
+                <ListView
+                    android:layout_width="200dp"
+                    android:layout_height="300dp"
+                    android:visibility="gone"
+                    android:id="@+id/ActList">
+                </ListView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Acceleration Graph:"
+                    android:textSize="18sp"/>
+            </LinearLayout>
+
+            <ExpandableListView android:id="@+id/gatt_services_list"
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:visibility="visible"/>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <com.github.mikephil.charting.charts.LineChart
+                    android:id="@+id/lineChart"
+                    android:layout_width="250dp"
+                    android:layout_height="200dp"
+                    android:layout_alignParentStart="false"
+                    android:layout_gravity="center"
+                    android:layout_above="@+id/rangebar"></com.github.mikephil.charting.charts.LineChart>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center">
+                    <Button
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_margin="3dp"
+                        android:background="#0000cc"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="X Axis"
+                        android:textSize="14sp"
+                        android:textColor="#0000cc"
+                        android:layout_margin="5dp"/>
+                    <Space
+                        android:layout_width="10dp"
+                        android:layout_height="10dp" />
+                    <Button
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_margin="3dp"
+                        android:background="#F44336"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Y Axis"
+                        android:textSize="14sp"
+                        android:textColor="#F44336"
+                        android:layout_margin="5dp"/>
+                    <Space
+                        android:layout_width="10dp"
+                        android:layout_height="10dp" />
+                    <Button
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_margin="3dp"
+                        android:background="#76FF03"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Z Axis"
+                        android:textSize="14sp"
+                        android:textColor="#76FF03"
+                        android:layout_margin="5dp"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <Button
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Record"
+                android:enabled="false"
+                android:layout_margin="10dp"
+                android:textSize="16sp"
+                android:background="#404040"
+                android:textColor="@android:color/white"
+                android:id="@+id/Record"
+                />
+
+            <Button
+                android:layout_width="140dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Cancel"
+                android:layout_margin="10dp"
+                android:textSize="16sp"
+                android:background="#404040"
+                android:visibility="gone"
+                android:textColor="@android:color/white"
+                android:id="@+id/Cancel"
+                />
+
+        </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

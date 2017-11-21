@@ -1,0 +1,391 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce5606f0511a830462c8b2571917295b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\4a9a5ea8b742c28ae54501f4c7de2985\AndroidManifest.xml:16:1-20:12
+MERGED from [com.edmodo:rangebar:1.0.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\rangebar-1.0.0.aar\6ec8f82fa5482524f9ef016fea2d8b4d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-core-9.4.0.aar\2240fcff28937ddc9ce3e844b950d8a5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\43460557928d03dec884398a76e2822f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\f5ffd441417b0f8a35dab1db58843f7b\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:8:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.INTERNET
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:15:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:17:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce5606f0511a830462c8b2571917295b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce5606f0511a830462c8b2571917295b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\4a9a5ea8b742c28ae54501f4c7de2985\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\4a9a5ea8b742c28ae54501f4c7de2985\AndroidManifest.xml:19:5-20
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-core-9.4.0.aar\2240fcff28937ddc9ce3e844b950d8a5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-core-9.4.0.aar\2240fcff28937ddc9ce3e844b950d8a5\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\f5ffd441417b0f8a35dab1db58843f7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\f5ffd441417b0f8a35dab1db58843f7b\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:18:9-41
+	android:theme
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:20:9-56
+activity#com.donaydc.activitiesrecognition.SplashScreen
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:theme
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:23:13-51
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.donaydc.activitiesrecognition.MainActivity
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:30:9-50
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:30:19-47
+service#com.donaydc.activitiesrecognition.BluetoothLeService
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:32:9-34:38
+	android:enabled
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:33:13-47
+activity#com.donaydc.activitiesrecognition.Main2Activity
+ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:36:9-38:69
+	android:label
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:38:13-57
+	android:name
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml:37:13-42
+uses-sdk
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce5606f0511a830462c8b2571917295b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce5606f0511a830462c8b2571917295b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\4a9a5ea8b742c28ae54501f4c7de2985\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-plus-9.4.0.aar\4a9a5ea8b742c28ae54501f4c7de2985\AndroidManifest.xml:18:5-42
+MERGED from [com.edmodo:rangebar:1.0.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\rangebar-1.0.0.aar\6ec8f82fa5482524f9ef016fea2d8b4d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.edmodo:rangebar:1.0.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\rangebar-1.0.0.aar\6ec8f82fa5482524f9ef016fea2d8b4d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-core-9.4.0.aar\2240fcff28937ddc9ce3e844b950d8a5\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-core-9.4.0.aar\2240fcff28937ddc9ce3e844b950d8a5\AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\43460557928d03dec884398a76e2822f\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-9.4.0.aar\43460557928d03dec884398a76e2822f\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\f5ffd441417b0f8a35dab1db58843f7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\f5ffd441417b0f8a35dab1db58843f7b\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\Android_Studio\ActivitiesRecognition\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\27e00f240f5928f963d57e61450f3be7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\177cfe1afbfac71fa217cc2e2016bdb5\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\2bbbc69f67837a7dd65e19753618d7bb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\322b6998015c5d7285e5f47e0318ee85\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\3fe375c0f8bf1a3fd3a52319338531a1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\bad460dc81869518ee5eac454de0b59f\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\7ac0f5adc96828b604db4bce56a13f30\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cd249018b332d5c5ce86f68283493531\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\9ac314ab60f20e50427fd7929d0f54dd\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-auth-9.4.0.aar\4b856e2f4c97fb3524018160547a4337\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\334cb57d67b929a8b10db0efc0ffbaf4\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.4.0.aar\ca0092b9cf737a61d23a6fee39425967\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.4.0.aar\20e96318b68b363a0eaa791f04ee31eb\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:25:17-71
+permission#com.donaydc.activitiesrecognition.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:28:22-76
+uses-permission#com.donaydc.activitiesrecognition.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:36:13-40:29
+intent-filter#com.donaydc.activitiesrecognition+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:39:27-58
+category#com.donaydc.activitiesrecognition
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.4.0.aar\67cd58a19cd980bb6929283662cc32a5\AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.4.0.aar\eb1f2c843a66c92c9073e74e205bca6a\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\Donayd Correa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\d11571436cee8f0df0b1f27213540af0\AndroidManifest.xml:22:13-58

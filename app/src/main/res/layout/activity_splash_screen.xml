@@ -1,0 +1,73 @@
+<android.support.v7.widget.LinearLayoutCompat xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome!"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"
+        android:textColor="@android:color/black"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/circlerun"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="35dp"
+        android:id="@+id/BTL"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hi, please push the button!"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/TXNombre"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center">
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Training"
+            android:enabled="false"
+            android:layout_margin="10dp"
+            android:textSize="16sp"
+            android:background="#404040"
+            android:textColor="@android:color/white"
+            android:id="@+id/Training"
+            />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Recognition"
+            android:enabled="false"
+            android:layout_margin="10dp"
+            android:textSize="16sp"
+            android:background="#404040"
+            android:textColor="@android:color/white"
+            android:id="@+id/Recognition"
+            />
+
+    </LinearLayout>
+
+</android.support.v7.widget.LinearLayoutCompat>
